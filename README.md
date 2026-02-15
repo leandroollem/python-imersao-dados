@@ -66,7 +66,7 @@ The dashboard was designed to offer three levels of depth:
 ## How to Run the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/leandroollem/python-imersao-dados)
+git clone https://github.com/leandroollem/python-imersao-dados
 ```
 2. Install dependencies:
 ```bash
