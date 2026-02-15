@@ -25,7 +25,7 @@ O dashboard foi projetado para oferecer três niveis de profundidade:
 ## Como executar o Projeto
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/leandroollem/python-imersao-dados
 ```
 2. Instale as dependências:
 ``` bash
@@ -66,7 +66,7 @@ The dashboard was designed to offer three levels of depth:
 ## How to Run the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/leandroollem/python-imersao-dados)
 ```
 2. Install dependencies:
 ```bash
